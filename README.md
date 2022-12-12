@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm B. Cemre DISLI</h1>
+<h1 align="center">I'm B. Cemre DISLI</h1>
 <h3 align="center">Philosopher, Fullstack Developer, Noob Photographer</h3>
 
 - 📫 How to reach me **bcemred@outlook.de**
