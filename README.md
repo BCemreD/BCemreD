@@ -3,6 +3,8 @@
 <h3 align="center">Philosopher, Fullstack Developer, Noob Photographer</h3>
 
 - 📫 How to reach me **bcemred@outlook.de**
+- - ![image](https://github.com/user-attachments/assets/e840af2b-372b-4e7b-ae36-d10c43ebf70d)
+ My website **bcemred.blog**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
