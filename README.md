@@ -1,5 +1,5 @@
 
-<img width=100% src = "https://capsule-render.vercel.app/api?type=blur&height=400&color=57A1CD&text=BCemreD&fontSize=50&fontColor=FAF9F6&reversal=true" alt="header"/>
+<img width=100% src = "https://capsule-render.vercel.app/api?type=blur&height=600&color=57A1CD&text=BCemreD&fontSize=60&fontColor=FAF9F6&reversal=true" alt="header"/>
 
 <h3 align="center">Philosopher, Fullstack Developer, Noob Photographer & Traveller</h3>
 </br>
