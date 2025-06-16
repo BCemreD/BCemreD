@@ -46,5 +46,5 @@
 <a href="https://www.wordpress.com" target="_blank" rel="noreferrer">![WordPress](https://img.shields.io/badge/wordpress-royalblue.svg?style=plastic&logo=wordpress&logoColor=white)</a>
 
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1BgiveZnXOIrt_dh5fgq_qENeUEisWKvI/view?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/12Yx1YQ22KB43k8D0aCWt4YaUvqZHQmIz/view?usp=sharing" download>Download my resume</a>
           
