@@ -8,7 +8,7 @@
 - My website: <a href="https://bcemred.blog" target="blank">bcemred.blog </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=BCemreD&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![]( https://github-readme-stats.vercel.app/api?username=BCemreD&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default)<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
