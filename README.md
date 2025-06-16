@@ -22,7 +22,7 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css&logoColor=white)
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> ![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=plastic&logo=javascript&logoColor=white)</a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">![Python](https://img.shields.io/badge/python-3776AB.svg?style=plastic&logo=python&logoColor=white)</a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">![PostgreSQL](https://img.shields.io/badge/postgresql-%231572B6.svg?style=plastic&logo=postgresql&logoColor=white)</a>
