@@ -24,8 +24,8 @@
 
 <h3 align="left">Languages </h3>
 
-![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?style=plastic&logo=css&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=plastic&logo=javascript&logoColor=white)</a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=fff)</a>
