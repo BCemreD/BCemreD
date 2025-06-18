@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/bcemredisli" target="blank">![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)</a>
 <a href="https://medium.com/@bcemred" target="blank">![Medium](https://img.shields.io/badge/Medium-violet.svg?style=plastic&logo=medium&logoColor=white)
 <a href="https://instagram.com/bcemred" target="blank">![Instagram](https://img.shields.io/badge/Instagram-pink.svg?style=plastic&logo=Instagram&logoColor=white)</a>
-<a href="https://discord.gg/#793" target="blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=Discord&logoColor=white)</a></a>
+<a href="https://discord.gg/#793" target="blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=Discord&logoColor=white)</a>
 </p>
 
 <h3 align="left">Languages </h3>
@@ -44,11 +44,11 @@
 
 <h3 align="left"> Tools:</h3>
 
-<a href="https://eclipse.org" target="_blank" rel="noreferrer">![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=plastic&logo=Eclipse&logoColor=white) </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=vsc&logoColor=white) </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">![Android](https://img.shields.io/badge/android-%3DDC84.svg?style=plastic&logo=android&logoColor=white) </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=fff) </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer">![Postman](https://img.shields.io/badge/postman-orange.svg?style=plastic&logo=postman&logoColor=white) </a> 
+<a href="https://eclipse.org" target="_blank" rel="noreferrer">![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=plastic&logo=Eclipse&logoColor=white)</a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=vsc&logoColor=white)</a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer">![Android](https://img.shields.io/badge/android-%3DDC84.svg?style=plastic&logo=android&logoColor=white)</a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=fff)</a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer">![Postman](https://img.shields.io/badge/postman-orange.svg?style=plastic&logo=postman&logoColor=white)</a> 
 <a href="https://hibernate.org" target="_blank" rel="noreferrer">![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=fff)</a>
 <a href="https://www.wordpress.com" target="_blank" rel="noreferrer">![WordPress](https://img.shields.io/badge/WordPress-royalblue.svg?style=plastic&logo=wordpress&logoColor=white)</a>
 <a href="https://www.canva.com" target="_blank" rel="noreferrer">![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)</a>
