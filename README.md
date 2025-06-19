@@ -17,7 +17,7 @@
 <p align="left">
             
 <a href="https://linkedin.com/in/bcemredisli" target="blank">![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)</a>
-<a href="https://medium.com/@bcemred" target="blank">![Medium](https://img.shields.io/badge/Medium-violet.svg?style=plastic&logo=medium&logoColor=white)
+<a href="https://medium.com/@bcemred" target="blank">![Medium](https://img.shields.io/badge/Medium-violet.svg?style=plastic&logo=medium&logoColor=white)</a>
 <a href="https://instagram.com/bcemred" target="blank">![Instagram](https://img.shields.io/badge/Instagram-pink.svg?style=plastic&logo=Instagram&logoColor=white)</a>
 <a href="https://discord.gg/#793" target="blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=Discord&logoColor=white)</a>
 </p>
