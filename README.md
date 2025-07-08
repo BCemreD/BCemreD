@@ -41,7 +41,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">![ReactJS](https://img.shields.io/badge/ReactJS-%231572B6.svg?style=plastic&logo=react&logoColor=white)</a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=plastic&logo=numpy&logoColor=fff)</a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=fff)</a>
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)])</a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)</a>
 
 <h3 align="left"> Tools:</h3>
 
