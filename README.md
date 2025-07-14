@@ -48,14 +48,13 @@
 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">![Android](https://img.shields.io/badge/Android%20Studio-%3DDC84.svg?style=plastic&logo=android&logoColor=white)</a>
 <a href="https://www.canva.com" target="_blank" rel="noreferrer">![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)</a>
-<a href="https://eclipse.org" target="_blank" rel="noreferrer">![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=plastic&logo=Eclipse&logoColor=white)</a>  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=fff)</a>  
+<a href="https://eclipse.org" target="_blank" rel="noreferrer">![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=plastic&logo=Eclipse&logoColor=white)</a>
+<a href="https://https://git-scm.com" target="_blank" rel="noreferrer">![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=fff)</a>
 <a href="https://hibernate.org" target="_blank" rel="noreferrer">![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=fff)</a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">![Postman](https://img.shields.io/badge/Postman-orange.svg?style=plastic&logo=postman&logoColor=white)</a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=vsc&logoColor=white)</a>
 <a href="https://www.wordpress.com" target="_blank" rel="noreferrer">![WordPress](https://img.shields.io/badge/WordPress-royalblue.svg?style=plastic&logo=wordpress&logoColor=white)</a>
 
-
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/12Yx1YQ22KB43k8D0aCWt4YaUvqZHQmIz/view?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1wAuEGQAkFDkjR_3BqB1PgSFsc4gD_pNJ/view?usp=sharing" download>Download my resume</a>
           
